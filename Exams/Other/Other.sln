@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmoogleCounter", "ShmoogleCounter\ShmoogleCounter.csproj", "{EFA5BE47-FFD8-48D1-86FA-A1A2EC6E3051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWars", "NumberWars\NumberWars.csproj", "{8EF21383-08DE-4BB7-A97D-80B82E0CD5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{6842EFBA-CA43-4023-9AAA-649CFC099975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA5BE47-FFD8-48D1-86FA-A1A2EC6E3051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA5BE47-FFD8-48D1-86FA-A1A2EC6E3051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA5BE47-FFD8-48D1-86FA-A1A2EC6E3051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA5BE47-FFD8-48D1-86FA-A1A2EC6E3051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF21383-08DE-4BB7-A97D-80B82E0CD5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF21383-08DE-4BB7-A97D-80B82E0CD5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF21383-08DE-4BB7-A97D-80B82E0CD5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF21383-08DE-4BB7-A97D-80B82E0CD5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6842EFBA-CA43-4023-9AAA-649CFC099975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6842EFBA-CA43-4023-9AAA-649CFC099975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6842EFBA-CA43-4023-9AAA-649CFC099975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6842EFBA-CA43-4023-9AAA-649CFC099975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
